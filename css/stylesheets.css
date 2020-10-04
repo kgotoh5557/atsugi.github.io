@@ -1,5 +1,6 @@
 h1 {
    color:#ffffff;  
+   font-size:48px;
 }
 
 
@@ -19,6 +20,13 @@ h1 {
   margin:0 auto;
 }
 
+.sale-text p {
+   font-size:36px;
+}
+
 .price {
   color:#ff0000;  
+  font-size:40px; 
 }
+
+
