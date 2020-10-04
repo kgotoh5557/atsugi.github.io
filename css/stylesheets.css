@@ -4,16 +4,16 @@ h1 {
 
 
 .container {
-  height:500px;
-  width:400px;	
+  height:1000px;
+  width:800px;	
   padding:10px;
   background-color:#c270c2;
   text-align:center;
 }
 
 .sale-text {
-  height:180px;
-  width:310px;
+  height:360px;
+  width:620px;
   background-color:#f0dceb;
   margin:0 auto;
 }
